@@ -1,2 +1,2 @@
 add(a, b);
-return add;
+add;
