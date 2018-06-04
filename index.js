@@ -1,6 +1,6 @@
 function add(a) {
   
-  return function
+  return function(b) { 
 }
 
 
